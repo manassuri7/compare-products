@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Apple",
+    "price": 0.79,
+    "condition": "Fresh",
+    "image": "apple1.jpg",
+    "colour": "green",
+    "description": "An Apple a day keeps a doctor away"
+  },
+  {
+    "id": 2,
+    "name": "Lemon",
+    "price": 0.15,
+    "condition": "Frozen",
+    "image": "lemon1.jpg",
+    "colour": "yellow",
+    "description": "Citrus fruits are always good for health"
+  },
+  {
+    "id": 3,
+    "name": "Orange",
+    "price": 0.23,
+    "condition":  "Frozen",
+    "image": "orange1.jpg",
+    "colour": "orange",
+    "description": "Orange is my favourite fruit"
+  },
+  {
+    "id": 4,
+    "name": "Pomegranate",
+    "price": 0.33,
+    "condition":"Fresh",
+    "image": "pomegranate1.jpg",
+    "colour": "red",
+    "description": "The king of Fruits"
+  }
+]
