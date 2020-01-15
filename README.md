@@ -6,9 +6,7 @@ A simple app showcasing frontend technologies such as React and Redux to create 
 
     npm install
     npm start
-
-# Example
-
-
+    
+    
 
 # Don't forget to star this repo ;)
